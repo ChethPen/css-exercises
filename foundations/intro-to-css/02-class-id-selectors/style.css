@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd{
+    background-color:rgb(236, 114, 135);
+    font-family:Verdana," DejaVu Sans", sans-serif;
+}
+#second{
+    color:blue;
+    font-size:36px;
+}
+/* used class to erase duplicate code for font-size:24px */
+.adjust-font-size{ 
+    font-size:24px;
+}
+
+#fourth{
+    background-color:rgb(132, 232, 132);
+    font-weight:bold;
+
+}
